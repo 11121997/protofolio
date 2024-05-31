@@ -2,9 +2,7 @@
 <html>
    <head>
         <meta charset="UTF-8" />
-        <title>protofolio project</title>
-    </head>
-</html>
+   </head>
 <body>
     <h1>protofolio project</h1>
     <p>This is the beginning of improvement.</p>
@@ -15,3 +13,4 @@
     <p>I made directories for javascript, css, images, and html file</p>
     <p>I rate my self 7 of 10, cause I wanna to achieve more, but this is my capacity,  really doing my all efforts</p>
 </body>
+</html>
