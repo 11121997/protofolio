@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
-    <head>
+   <head>
         <meta charset="UTF-8" />
-        <title>Shell basics</title>
+        <title>protofolio project</title>
     </head>
 </html>
 <body>
