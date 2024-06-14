@@ -1,5 +1,3 @@
-#!/usr/bin/node
-
 // check color storage
 const mainColor = localStorage.getItem("color_option");
 
