@@ -1,16 +1,24 @@
 <!DOCTYPE html>
 <html>
    <head>
-        <meta charset="UTF-8" />
+        <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
    </head>
 <body>
     <h1>protofolio project</h1>
-    <p>This is the beginning of improvement.</p>
-    <p>My project is about creating website for online art courses,
-        How powerful of alx gives us chances to study and work hard</p>
-    <p>In this week I planned to start and how I will start</p>
-    <p>I start coding the first steps to make my own website</p>
-    <p>I made directories for javascript, css, images, and html file</p>
-    <p>I rate my self 7 of 10, cause I wanna to achieve more, but this is my capacity,  really doing my all efforts</p>
+    <p>Welcome to my website</p>
+    <p>My project is about website for online art courses</p>
+    <ul>
+	<li><a href=""></a>Website link</li>
+	<li><a href="">Articl</a></li>
+    </ul>
+    <h3>Usage</h3>
+    <p>This web site made for learners wants to learn how to draw, puy online cources, learn fundamentals, go step by step to draw</p>
+    <h3>Author</h3>
+    <ul>
+	<li><a href="">Twitter</a></li>
+	<li><a href="">Linkdin</a></li>
+	<li><a href="">Githup</a></li>
+    </ul>
 </body>
 </html>
